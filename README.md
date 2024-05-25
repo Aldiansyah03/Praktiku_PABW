@@ -12,5 +12,5 @@ Nama : Abdul Ghani Dimas Ali Ahmadi
 
 # Menjalankan Frontend dan Backend
 
-FrontEnd : npm run start\
-BackEnd : npm run dev
+FrontEnd : npm run start (Port : 3000)\
+BackEnd : npm run dev (Port : 3030)
